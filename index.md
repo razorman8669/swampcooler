@@ -4,6 +4,8 @@ I pretty much copied the design from here https://www.instructables.com/Arobodud
 
 Total cost is about $100 give or take depending on where you source your materials, and if you have extra 5 gallon buckets lying around.
 
+In dry climates with about 90°F ambient air temperature, I was seeing 20°F+ drop in temperature coming out of this swamp cooler.  I was measuring 68°F air coming out.
+
 ### Improvements on original design
 - I decided to go with an [exhaust blower](https://www.amazon.com/gp/product/B003EX02DA) fan instead of the computer fan since it's got much more power and the added perk is it's way easier to install.  It's also water and dust proof 
 - The power supply needs to be capable of running the blower fan.  I found that many cheaper power supplies would get overloaded on fan startup and fail so if you choose to find a different one than the one below, make sure you test it fully before bringing it out to the playa.
@@ -44,4 +46,4 @@ That all said, a little ice could be helpful if the water that you're putting in
 - Make sure to use clean water and try to use room temperature water for best results.
 - turn on the water pump and fan and give it a few minutes to saturate the cooler pad.
 - Make sure to check for any leaks regularly!  You might need to adjust the tubing inside the swamp cooler to make sure it's not spraying out the holes.
-- After a few hours, the water should all be evaporated, and you should turn off the water pump.  The timer switch could help with making sure it doesnt continue to run after all water is evaporated.
+- After a about 2 hours, the water should all be evaporated, and you should turn off the fan and water pump.  The timer switch could help with making sure it doesnt continue to run after all water is evaporated.
