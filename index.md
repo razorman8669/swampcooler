@@ -1,6 +1,6 @@
 ## A DIY swampcooler for Burning Man or other dry place
 
-I pretty much copied the design from here https://www.instructables.com/Arobodudes-DIY-Burning-Man-Evaporative-AC-Swamp-Co/ and made a few mods and improvements. Total build is roughly an hour or so when you have the right tools:
+I pretty much copied the design from here [https://www.instructables.com/Arobodudes-DIY-Burning-Man-Evaporative-AC-Swamp-Co/](https://www.instructables.com/Arobodudes-DIY-Burning-Man-Evaporative-AC-Swamp-Co/ )and made a few mods and improvements. Total build is roughly an hour or so when you have the right tools:
 
 Total cost is about $100 give or take depending on where you source your materials, and if you have extra 5 gallon buckets lying around.
 
@@ -18,17 +18,17 @@ In dry climates with about 90°F ambient air temperature, I was seeing 20°F+ dr
 - Drill Bit Set
 
 ### Materials:
-1. Power Supply: https://www.amazon.com/gp/product/B07BGZQXKW You need a quality power supply as I tried many other cheaper ones and it doesn't power the blower fan or triggers the overload protection and shuts off.  This one works though!
-1. Blower Fan: https://www.amazon.com/gp/product/B003EX02DA The other instructions use a computer fan, which not only requires more labor and parts to rig, but also isn't as powerful.  you want maximum power!
-1. Water Pump: https://www.amazon.com/gp/product/B07TVJWCPK You need a pump that has run-dry protection, otherwise you'll be burning out your pump when the water runs dry.
+1. Power Supply: [https://www.amazon.com/gp/product/B07BGZQXKW](https://www.amazon.com/gp/product/B07BGZQXKW) You need a quality power supply as I tried many other cheaper ones and it doesn't power the blower fan or triggers the overload protection and shuts off.  This one works though!
+1. Blower Fan: [https://www.amazon.com/gp/product/B003EX02DA](https://www.amazon.com/gp/product/B003EX02DA) The other instructions use a computer fan, which not only requires more labor and parts to rig, but also isn't as powerful.  you want maximum power!
+1. Water Pump: [https://www.amazon.com/gp/product/B07TVJWCPK](https://www.amazon.com/gp/product/B07TVJWCPK) You need a pump that has run-dry protection, otherwise you'll be burning out your pump when the water runs dry.
 1. 24"x30" Aspen Snow cooling pads from B&C True Value ($6) (or online for more $$$ https://www.amazon.com/dp/B001UTEJLQ).  These work the best IMHO.  the blue cooler pads just dont give enough surface area, and imped the airflow too much.
-1. T connector: https://www.amazon.com/gp/product/B002FYAQKI
-1. 1/2" ID flex tubing https://www.amazon.com/gp/product/B07HF4SYWY.  you could pick this up at a hardware store, or buy online.
+1. T connector: [https://www.amazon.com/gp/product/B002FYAQKI](https://www.amazon.com/gp/product/B002FYAQKI)
+1. 1/2" ID flex tubing [https://www.amazon.com/gp/product/B07HF4SYWY](https://www.amazon.com/gp/product/B07HF4SYWY).  you could pick this up at a hardware store, or buy online.
 1. 5 Gallon Bucket
 1. 5 Gallon Reusable Bucket lid:  Make sure you get one that is easy to put on/take off as you'll be doing that a bunch.
-1. Semi Rigid Dryer Duct - I used https://www.amazon.com/dp/B071LHCFZ8 as it was a bit more insulated than the singly layer aluminum ones, which felt better for playa.  but you could always just go the cheaper route and get the aluminum ones from the hardware store.
-1. 4" Hose clamp (cheaper at hardware store, otherwise, you can buy them online https://www.amazon.com/dp/B092LFWV6H)
-1. (optional) timer switch - https://www.amazon.com/dp/B01D3QEK4E - if you're forgetful and think you'll walk away without turning off the water pump, you might want to consider a timer switch so that it automatically turns off.  If you run the fan & water pump on the same timer, then you'll be sure that if you fall asleep, then the fan will turn off before the water all evaporates, to prevent blowing warm air into your living space.
+1. Semi Rigid Dryer Duct - I used [https://www.amazon.com/dp/B071LHCFZ8](https://www.amazon.com/dp/B071LHCFZ8) as it was a bit more insulated than the singly layer aluminum ones, which felt better for playa.  but you could always just go the cheaper route and get the aluminum ones from the hardware store.
+1. 4" Hose clamp (cheaper at hardware store, otherwise, you can buy them online [https://www.amazon.com/dp/B092LFWV6H](https://www.amazon.com/dp/B092LFWV6H))
+1. (optional) timer switch - [https://www.amazon.com/dp/B01D3QEK4E](https://www.amazon.com/dp/B01D3QEK4E) - if you're forgetful and think you'll walk away without turning off the water pump, you might want to consider a timer switch so that it automatically turns off.  If you run the fan & water pump on the same timer, then you'll be sure that if you fall asleep, then the fan will turn off before the water all evaporates, to prevent blowing warm air into your living space.
 
 ### Instructions
 1. the actual build is pretty similar to the instructions linked above, but instead of the computer fan, it uses the exhaust blower fan which is a lot easier to install (just drill a 4" hole using a hole saw and the fan slots right in.)
