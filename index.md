@@ -49,4 +49,4 @@ That all said, a little ice could be helpful if the water that you're putting in
 - Make sure to use clean water and try to use room temperature water for best results.
 - turn on the water pump and fan and give it a few minutes to saturate the cooler pad.
 - Make sure to check for any leaks regularly!  You might need to adjust the tubing inside the swamp cooler to make sure it's not spraying out the holes.
-- After a about 2 hours, the water should all be evaporated, and you should turn off the fan and water pump.  The timer switch could help with making sure it doesnt continue to run after all water is evaporated.
+- After about 2 hours, the water should all be evaporated, and you should turn off the fan and water pump.  The timer switch could help with making sure it doesnt continue to run after all water is evaporated, which would result in hot air blowing into your structure.
