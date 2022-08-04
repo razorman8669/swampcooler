@@ -1,6 +1,8 @@
 ## A DIY swampcooler for Burning Man or other dry place
 
-I pretty much copied the design from here [https://www.instructables.com/Arobodudes-DIY-Burning-Man-Evaporative-AC-Swamp-Co/](https://www.instructables.com/Arobodudes-DIY-Burning-Man-Evaporative-AC-Swamp-Co/ )and made a few mods and improvements. Total build is roughly an hour or so when you have the right tools:
+![finished build (1)](https://user-images.githubusercontent.com/479079/182931542-15845b69-9790-421a-9429-d1e0e44eb785.JPG)
+
+I pretty much copied the design from here [https://www.instructables.com/Arobodudes-DIY-Burning-Man-Evaporative-AC-Swamp-Co/](https://www.instructables.com/Arobodudes-DIY-Burning-Man-Evaporative-AC-Swamp-Co/) and made a few mods and improvements. Total build is roughly an hour or so when you have the right tools:
 
 Total cost is about $100 give or take depending on where you source your materials, and if you have extra 5 gallon buckets lying around.
 
@@ -31,10 +33,11 @@ In dry climates with about 90°F ambient air temperature, I was seeing 20°F+ dr
 1. (optional) timer switch - [https://www.amazon.com/dp/B01D3QEK4E](https://www.amazon.com/dp/B01D3QEK4E) - if you're forgetful and think you'll walk away without turning off the water pump, you might want to consider a timer switch so that it automatically turns off.  If you run the fan & water pump on the same timer, then you'll be sure that if you fall asleep, then the fan will turn off before the water all evaporates, to prevent blowing warm air into your living space.
 
 ### Instructions
-1. the actual build is pretty similar to the instructions linked above, but instead of the computer fan, it uses the exhaust blower fan which is a lot easier to install (just drill a 4" hole using a hole saw and the fan slots right in.)
-1. You then place the dryer duct on the other end of the fan, using the optional 
-2. When installing the cooling pad into the bucket, you need to fold it at about 14" from the bottom and then place it in the bucket with the shorter side on the outside of the ring.  (Images coming later)
-3. 
+1. the actual build is pretty similar to the [instructions linked above](https://www.instructables.com/Arobodudes-DIY-Burning-Man-Evaporative-AC-Swamp-Co/), but instead of the computer fan, it uses the exhaust blower fan which is a lot easier to install (just drill a 4" hole using a hole saw and the fan slots right in.)
+1. You then place the dryer duct on the other end of the fan, and secure it with the hose clamp.
+3. When installing the cooling pad into the bucket, you need to fold it at about 14" from the bottom and then place it in the bucket with the shorter side on the outside of the ring.  (Images coming later)
+4. When preparing and installing the tubing, make sure that the holes are directly pointed down, and that it doesn't get pushed to the edges of the bucket as this could result in water spraying out of the 2" holes on the outside of the bucket.  I used a zip tie to try and keep the tubing centered inside the bucket (see photo) ![insideView (1)](https://user-images.githubusercontent.com/479079/182931581-c6eed8af-cbea-454a-b865-c3781aeed72c.jpg)
+
 
 ### A note on ICE usage in swamp cooler
 The ideal temperature of the water should be between 50°F and room temperature.  Any colder, and the evaporation effect is reduced substantially.  It is true that running air over ice (or very cold water) will transfer some of that heat out of the air, however, the reduction in evaporative cooling will result in only marginal improvements.  It's just not economical nor very green to be buying ice (or making ice) and then sticking it in your swamp cooler.  Best to just stick with cool water.
