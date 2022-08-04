@@ -1,3 +1,15 @@
+<!-- For third-generation iPad with high-resolution Retina display: -->
+<link rel="apple-touch-icon-precomposed" sizes="144x144" href="https://user-images.githubusercontent.com/479079/182939177-652d27dc-76d3-487a-9f84-5bd609239bae.jpeg">
+<!-- For iPhone with high-resolution Retina display: -->
+<link rel="apple-touch-icon-precomposed" sizes="114x114" href="https://user-images.githubusercontent.com/479079/182939177-652d27dc-76d3-487a-9f84-5bd609239bae.jpeg">
+<!-- For first- and second-generation iPad: -->
+<link rel="apple-touch-icon-precomposed" sizes="72x72" href="https://user-images.githubusercontent.com/479079/182939177-652d27dc-76d3-487a-9f84-5bd609239bae.jpeg">
+<!-- For non-Retina iPhone, iPod Touch, and Android 2.1+ devices: -->
+<link rel="apple-touch-icon-precomposed" href="https://user-images.githubusercontent.com/479079/182939177-652d27dc-76d3-487a-9f84-5bd609239bae.jpeg">
+<!-- Regular browser favicon: -->
+<link rel="icon" href="https://user-images.githubusercontent.com/479079/182939177-652d27dc-76d3-487a-9f84-5bd609239bae.jpeg" type="image/x-icon" />
+
+
 ## A DIY swampcooler for Burning Man or other dry place
 
 ![finished build (1)](https://user-images.githubusercontent.com/479079/182931542-15845b69-9790-421a-9429-d1e0e44eb785.JPG)
