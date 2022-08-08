@@ -32,7 +32,7 @@ In dry climates with about 90°F ambient air temperature, I was seeing 20°F+ dr
 - Drill Bit Set
 
 ### Materials:
-1. Power Supply: [https://www.amazon.com/gp/product/B07BGZQXKW](https://www.amazon.com/gp/product/B07BGZQXKW) You need a quality power supply as I tried many other cheaper ones and it doesn't power the blower fan or triggers the overload protection and shuts off.  This one works though!
+1. Power Supply: [https://www.amazon.com/gp/product/B01MT5WVCG](https://www.amazon.com/gp/product/B01MT5WVCG) You need a quality power supply as I tried many other cheaper ones and it doesn't power the blower fan or triggers the overload protection and shuts off.  This one lets you switch between voltages, so make sure you set it to 13.5 Volts (which gives you the optimal power for the fan).
 1. Blower Fan: [https://www.amazon.com/gp/product/B003EX02DA](https://www.amazon.com/gp/product/B003EX02DA) The other instructions use a computer fan, which not only requires more labor and parts to rig, but also isn't as powerful.  you want maximum power!
 1. Water Pump: [https://www.amazon.com/gp/product/B07TVJWCPK](https://www.amazon.com/gp/product/B07TVJWCPK) You need a pump that has run-dry protection, otherwise you'll be burning out your pump when the water runs dry.
 1. 24"x30" Aspen Snow cooling pads from B&C True Value ($6) (or online for more $$$ https://www.amazon.com/dp/B001UTEJLQ).  These work the best IMHO.  the blue cooler pads just dont give enough surface area, and imped the airflow too much.
@@ -59,6 +59,7 @@ That all said, a little ice could be helpful if the water that you're putting in
 ### Operation
 - Fill the swamp cooler up to the bottom of the holes on the sides (about 2-3 gallons).
 - Make sure to use clean water and try to use room temperature water for best results.
+- Set the voltage of the power supply to 13.5 volts (if using the power supply referenced in the materials section).  this ensures the most power to the fan.
 - turn on the water pump and fan and give it a few minutes to saturate the cooler pad.
 - Make sure to check for any leaks regularly!  You might need to adjust the tubing inside the swamp cooler to make sure it's not spraying out the holes.
 - After about 2 hours, the water should all be evaporated, and you should turn off the fan and water pump.  The timer switch could help with making sure it doesnt continue to run after all water is evaporated, which would result in hot air blowing into your structure.
